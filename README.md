@@ -1,10 +1,12 @@
-# kehroba_sales
+# Kehroba Sales
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+![image](https://user-images.githubusercontent.com/48040557/152998368-9fc65531-7ba3-49bc-aec2-928a24ea66ba.png)
 
 A few resources to get you started if this is your first Flutter project:
 
